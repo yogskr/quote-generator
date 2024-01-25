@@ -26,7 +26,7 @@ As the name suggests, it generates a random quote from an API, [quotable](https:
 
 ### Links
 
-Live URL: []
+Live URL: [https://yogskr.github.io/quote-generator/](https://yogskr.github.io/quote-generator/)
 
 ## My process
 

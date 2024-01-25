@@ -82,10 +82,10 @@ button:active {
 }
 
 .twitter-button:hover {
-  color: #38a1f3;
+  color: #000000;
 }
 
-.fa-twitter {
+.fa-x-twitter {
   font-size: 1.5rem;
 }
 
